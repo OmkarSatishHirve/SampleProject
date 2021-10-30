@@ -1,2 +1,2 @@
 # SampleProject
-This is Demo
+This is Demo by Omkar Hirve
